@@ -1,0 +1,15 @@
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\Negocio.dll
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\Repositorio.pdb
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\obj\Debug\Negocio.dll
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\Repositorio.exe
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Negocio\bin\Debug\Repositorio.exe.config

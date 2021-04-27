@@ -1,0 +1,11 @@
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\Repositorio.exe.config
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\bin\Debug\Repositorio.exe
+C:\Users\garay\source\repos\LibretaDireccionesContactos\Repositorio\obj\Debug\Repositorio.exe
